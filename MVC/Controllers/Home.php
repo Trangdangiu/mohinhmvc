@@ -5,6 +5,8 @@ class Home extends controller
     function __construct()
     {
         $this->dulieu = $this->model('khuchoi_m');
+
+        ##comment
     }
     function Get_data()
     {
