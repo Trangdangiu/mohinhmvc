@@ -7,6 +7,8 @@ class Home extends controller
         $this->dulieu = $this->model('khuchoi_m');
 
         ##comment
+
+        ## comment 2 line
     }
     function Get_data()
     {
